@@ -1,0 +1,28 @@
+header {
+  background-color: #fff;
+
+  padding: 20px 40px;
+
+  transition: all 0.3s linear;
+}
+
+nav {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+nav .logo {
+  font-weight: 600;
+  font-size: 2rem;
+}
+
+nav ul {
+  list-style: none;
+  display: flex;
+}
+
+nav ul li {
+  font-weight: 600;
+  margin: 0px 14px;
+}
